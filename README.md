@@ -9,3 +9,10 @@ Each CSV files contains the data nessaisry to re-create the child's drawing
 Each CSV file contains 4 columns which represent: 
 X,Y (these are the coordinates of the children drwaing the letters, Z, the time step 
 the 4th column represents the stroke # 
+
+
+
+TOTAL:
+1,396 examples 
+22 Alphabets 
+
